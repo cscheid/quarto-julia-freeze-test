@@ -1,0 +1,11 @@
+{
+  "hash": "6da307ac6956e4093fe0635711d42b25",
+  "result": {
+    "markdown": "---\ntitle: \"Proj-1\"\nfreeze: true\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\n3 + 5\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n8\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
